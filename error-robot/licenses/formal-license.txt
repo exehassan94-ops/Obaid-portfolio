@@ -1,0 +1,42 @@
+ — COMMERCIAL (SINGLE-SITE) LICENSE
+Author: Err0r_0baid
+File: LICENSE_COMMERCIAL.txt
+Date: 2023
+
+1. Grant of License
+You (the “Licensee”) are granted a non-exclusive, non-transferable license to use the portfolio template in one (1) commercial project / website. The license permits use for client work, freelance projects, and business websites.
+
+2. Permitted Uses
+- Use, modify, and deploy the template on a single live domain (one published project).
+- Deliver a site built from the template to a client, provided the client does not receive the original source files as a transferable package.
+
+3. Additional Commercial Options
+- **Multi-Site License**: Purchase additional site licenses to deploy on multiple domains.
+- **Extended License**: Contact the author for a commercial extended license that permits redistribution, SaaS use, or resale of derivative templates.
+
+4. Prohibited Uses
+- You MAY NOT resell, rebrand, redistribute, or share the original template files as a standalone product.
+- You MAY NOT upload the original template (or slightly modified versions) to marketplaces or code repositories for sale or free distribution.
+- You MAY NOT claim authorship of the original design.
+
+5. Attribution
+Attribution is optional but appreciated. If the template includes third-party assets (icons, fonts, images), you must obey those assets' license terms (some assets may require attribution or separate licenses).
+
+6. Support & Updates
+Commercial purchases include:
+- 30 days of email support for installation/bug fixes.
+- Minor updates within 90 days of purchase.
+Extended support or custom work available for an additional fee.
+
+7. Warranty & Liability
+The template is provided "as is." Minimal warranty: the author will fix confirmed template bugs for licensed users within the support period. The author is not liable for indirect or consequential damages.
+
+8. Refunds
+Refund policy: specify your refund terms (e.g., no refunds after download). For direct sales, consider a 48-hour refund window before providing files.
+
+9. Termination
+Violation of the license voids the license and requires deletion of the template files. The author reserves the right to terminate license for misuse.
+
+Contact & Purchase
+Email: err0r_0baid@example.com
+To purchase multi-site or extended licenses, contact the author for pricing and terms.
